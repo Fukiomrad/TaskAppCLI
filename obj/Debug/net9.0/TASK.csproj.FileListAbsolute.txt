@@ -12,3 +12,4 @@ C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\refint\TASK.dll
 C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.pdb
 C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.genruntimeconfig.cache
 C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\ref\TASK.dll
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.sourcelink.json
