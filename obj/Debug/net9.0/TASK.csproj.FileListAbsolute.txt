@@ -1,0 +1,14 @@
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.AssemblyInfoInputs.cache
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.AssemblyInfo.cs
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.csproj.CoreCompileInputs.cache
+C:\Users\ardad\Desktop\TASK\bin\Debug\net9.0\TASK.exe
+C:\Users\ardad\Desktop\TASK\bin\Debug\net9.0\TASK.deps.json
+C:\Users\ardad\Desktop\TASK\bin\Debug\net9.0\TASK.runtimeconfig.json
+C:\Users\ardad\Desktop\TASK\bin\Debug\net9.0\TASK.dll
+C:\Users\ardad\Desktop\TASK\bin\Debug\net9.0\TASK.pdb
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.dll
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\refint\TASK.dll
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.pdb
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\TASK.genruntimeconfig.cache
+C:\Users\ardad\Desktop\TASK\obj\Debug\net9.0\ref\TASK.dll
